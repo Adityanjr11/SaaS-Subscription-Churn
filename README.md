@@ -1,7 +1,7 @@
 ## SaaS Subscription Churn Analysis
 
 ### Overview
-This project analyzes churn dynamics within a simulated SaaS subscription business to identify revenue-impacting customer segments and recommend high-ROI retention strategies.
+Conducted churn risk and revenue stability analysis using simulated SaaS subscription data (8K users). Performed cohort retention analysis, engagement segmentation, and revenue-weighted churn investigation to identify high-risk customer segments. Recommended targeted retention strategies projected to reduce churn by 3–4%.
 
 ### Dataset
 - 8,000 simulated users  
